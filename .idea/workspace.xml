@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b079bea-6423-4825-9da2-c2a6e8db57d9" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Дз/SilviaBot.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Класные роботы/KlasR9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Класные роботы/KlasR7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Класные роботы/KlasR7.py" afterDir="false" />
@@ -232,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743518765440</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1743712605760</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743712605760</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
