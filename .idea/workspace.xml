@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b079bea-6423-4825-9da2-c2a6e8db57d9" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Класные роботы/KlasR5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Класные роботы/KlasR6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Класные роботы/KlasR7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Класные роботы/KlasR8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Класные роботы/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Дз/SilviaBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Класные роботы/KlasR9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Класные роботы/KlasR7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Класные роботы/KlasR7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,29 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Doctests in KlasR6.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dz2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KlasR5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KlasR6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KlasR7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KlasRobot 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KlasYrok2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KlasYrok3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.КласныйУрок3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/PythonProject2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.Doctests in KlasR6.executor": "Run",
+    "Python tests.Python tests in Test.py.executor": "Run",
+    "Python.11lesson.executor": "Run",
+    "Python.Dz2.executor": "Run",
+    "Python.Dz6.executor": "Run",
+    "Python.Dz9.executor": "Run",
+    "Python.KlasR5.executor": "Run",
+    "Python.KlasR6.executor": "Run",
+    "Python.KlasR7.executor": "Run",
+    "Python.KlasR8.executor": "Run",
+    "Python.KlasR9.executor": "Run",
+    "Python.KlasRobot 2.executor": "Run",
+    "Python.KlasYrok2.executor": "Run",
+    "Python.KlasYrok3.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.КласныйУрок3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/PythonProject2",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\PythonProject2" />
       <recent name="C:\Users\User\PycharmProjects\PythonProject2\Класные роботы" />
     </key>
   </component>
@@ -188,7 +192,47 @@
       <option name="project" value="LOCAL" />
       <updated>1742309037812</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1743087295593</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743087295593</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1743512496202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743512496202</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1743512521954</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743512521954</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1743512549782</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743512549782</updated>
+    </task>
+    <task id="LOCAL-00013" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1743518765440</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743518765440</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

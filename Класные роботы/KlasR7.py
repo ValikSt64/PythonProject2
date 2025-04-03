@@ -18,14 +18,11 @@
 # print(bitcoin_exchange_rate)
 from bs4 import BeautifulSoup
 import requests
-response = requests.get("https://coinmarketcap.com/")
+response = requests.get("https://www.oschadbank.ua/currency-rate")
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, features="html.parser")
-    soup_list = soup.find_all(class_="sc-142c02c-0 lmjbLF")
-    soup_list = soup.find_all(class_="sc-142c02c-0 lmjbLF")
-    res = soup_list[0]
-    print("Биткоин -",res.text)
+    soup_list = soup.find_all(class_="heading-block-currency-rate__table-txt body-regular")
+    res = soup_list[9]
+    print("USD-UAH",res.text)
     print(type(res.text))
-    res1 = soup_list[1]
-    print("Єфириум -",res1.text)
-    print(type(res1.text))
+
