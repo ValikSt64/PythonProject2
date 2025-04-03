@@ -1,0 +1,22 @@
+We have next logging message: 2025-03-20 17:11:02,637:DEBUG-debug
+We have next logging message: 2025-03-20 17:11:02,637:INFO-info
+We have next logging message: 2025-03-20 17:11:02,637:WARNING-warning
+We have next logging message: 2025-03-20 17:11:02,637:ERROR-error
+We have next logging message: 2025-03-20 17:11:02,637:CRITICAL-critical
+We have next logging message: 2025-03-20 17:11:02,638:ERROR-Exception
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\PythonProject2\Класные роботы\KlasR6.py", line 13, in <module>
+    print(10/0)
+          ~~^~
+ZeroDivisionError: division by zero
+We have next logging message: 2025-03-20 17:26:31,813:DEBUG-debug
+We have next logging message: 2025-03-20 17:26:31,813:INFO-info
+We have next logging message: 2025-03-20 17:26:31,813:WARNING-warning
+We have next logging message: 2025-03-20 17:26:31,813:ERROR-error
+We have next logging message: 2025-03-20 17:26:31,813:CRITICAL-critical
+We have next logging message: 2025-03-20 17:26:31,813:ERROR-Exception
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\PythonProject2\Класные роботы\KlasR6.py", line 13, in <module>
+    print(10/0)
+          ~~^~
+ZeroDivisionError: division by zero
