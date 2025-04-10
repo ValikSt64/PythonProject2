@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b079bea-6423-4825-9da2-c2a6e8db57d9" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/KlasR4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itsteps_DB.sl3" beforeDir="false" afterPath="$PROJECT_DIR$/itsteps_DB.sl3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Класные роботы/KlasR9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Класные роботы/KlasR9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743712913014</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1744215203344</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744215203344</updated>
+    </task>
+    <task id="LOCAL-00019" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1744215255653</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1744215255653</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
